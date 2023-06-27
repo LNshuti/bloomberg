@@ -1,4 +1,4 @@
-#  **Financial Data Analyzer**: An open-source NLP project simulating a use case of a Bloomberg terminal. 
+#  **Financial Data Analyzer**: Open-source NLP project simulating a use case of a Bloomberg terminal. 
 
 ### Project Description: 
 
