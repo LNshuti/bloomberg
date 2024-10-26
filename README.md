@@ -43,7 +43,3 @@ The goal of this project is to build a comprehensive application that can intake
 5. Interactive Data Visualization: Helps users understand the data and make informed decisions.
 
 6. REST API: Allows users to interact with the application and access the data.
-
-**End Goal:**
-
-The end goal is to have an application that can intake financial data from various sources, process it, and analyze it to provide insightful trends and predictions to help users make informed financial decisions.
