@@ -18,7 +18,7 @@ The goal of this project is to build a comprehensive application that can intake
 
 6. **REST API:** Implement a REST API to allow users to interact with the application and access the analyzed data.
 
-**Languages and Tools:**
+**Stack:**
 
 - Python: Main programming language
 - BeautifulSoup, Scrapy: For web scraping
@@ -32,14 +32,12 @@ The goal of this project is to build a comprehensive application that can intake
 
 **Key Features:**
 
-1. Comprehensive Financial Data Collection: The application will be able to intake data from a wide variety of sources, providing a holistic view of the market.
+1. Reliable Financial Data: ingest data from a wide variety of sources, providing a holistic view of the market.
 
-2. Robust Data Cleaning and Preprocessing: Ensures that the data used for analysis is accurate and reliable.
+2. Data Cleaning and Preprocessing: Ensures that the data used for analysis is accurate and reliable.
 
-3. Machine Learning and Natural Language Processing: Provides the ability to identify trends and make predictions based on historical data, as well as analyze sentiments in financial news.
+3. Natural Language Processing: Identify trends and make predictions based on historical data, and analyze sentiments in financial news(Twitter).
 
-4. Scalable Data Storage: The use of big data technologies ensures the application can handle large volumes of data.
+4. Interactive Data Visualization
 
-5. Interactive Data Visualization: Helps users understand the data and make informed decisions.
-
-6. REST API: Allows users to interact with the application and access the data.
+5. REST API: Allows users to interact with the application and access the data.
